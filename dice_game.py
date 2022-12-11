@@ -12,7 +12,7 @@ print(r"""
           \'__'\/ 
                   """)
 
-name = input(">>>Enter your name: ")
+name = input(">>>Enter your Name: ")
 
 print(f"\n Welcome {name} to the dice game!!!")
 
